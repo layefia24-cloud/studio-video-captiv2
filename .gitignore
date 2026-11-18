@@ -1,0 +1,7 @@
+node_modules/
+__pycache__/
+*.pyc
+apercus/
+out/
+*.mp4
+.DS_Store
